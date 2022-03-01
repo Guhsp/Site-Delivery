@@ -1,6 +1,8 @@
 # Repositório do desafio de projeto Git/Github da Dio
 Repositório criado para o desafio de projeto.
 
+## Programação do site
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -221,6 +223,6 @@ function finalizarPedido(){
 
 
 
-## Links úteis
+## Link FoodBox
 
 [Link para fazer o pedido](https://duxp56.csb.app/)
